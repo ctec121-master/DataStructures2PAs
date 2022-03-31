@@ -1,4 +1,4 @@
-# Module 7 - Problem Set No. 6
+# Module 8 Programming Assignment
 
 This repository contains all of files you need to complete Problem Set 6.
 
